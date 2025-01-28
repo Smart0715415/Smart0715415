@@ -6,7 +6,7 @@ My favorite development toolkit includes Javascript, Typescript, React, Next.js,
 
 I ensure the highest quality of the product by following the best convention and practices and by implementing modern-looking user interfaces and best user experiences.
 
-I have great experience in implementing the following features on frontend:
+## I have great experience in implementing the following features on frontend:
     - Creating pixel-perfect and responsive layout from Figma/XD designs
     - Creating scalable architecture and reusable components on frontend
     - Integrating backend APIs through Axios/GraphQL libraries
@@ -15,7 +15,7 @@ I have great experience in implementing the following features on frontend:
     - Building intuitive admin dashboard for managing/monitoring the application statuses and states with different types charts, tables and rich components
     - Configuring CI/CD of frontend on Netlify, Vercel, Digital Ocean and AWS Amplify
 
-The major languages/frameworks that I am best at:
+## The major languages/frameworks that I am best at:
     - ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS, HeadlessUI
     - React/Redux/React Hooks/Material-UI/Next.js/Gatsby/React Bootstrap/Storybook
     - Vue2/Vue3/Vuex/Vue-Router/Vuetify/Nuxt.js
@@ -24,8 +24,8 @@ The major languages/frameworks that I am best at:
     - OAuth2/JWT/Auth0/AWS Cognito
     - Figma/Adobe XD
 
-I have pretty good experience in backend development  also including the following languages/frameworks:
-    - Serverless/Python/Node.js/Golang
+## I have pretty good experience in backend development  also including the following languages/frameworks:
+    - Serverless/Python/Node.js
     - Express.js/Nest.js/FastAPI/Django/Laravel
     - AWS/AWS Amplify/AWS SAM/AWS Lambda
     - MySQL/PostgreSQL/AWS RDS & Data API/AWS DynamoDB
