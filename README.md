@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 🙌 I am a fullstack software engineer.
 I am a dedicated full stack software engineer having specialized skillset in frontend development.
 I have great experience in building industrial web applications from groundup to the production in different industries including healthcare, internet marketing, entertainment and blockchain/web3.
 
