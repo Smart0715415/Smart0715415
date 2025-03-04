@@ -17,7 +17,7 @@ I ensure the highest quality of the product by following the best convention and
 
 ## The major languages/frameworks that I am best at:
     - ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS, HeadlessUI
-    - React/Redux/React Hooks/Material-UI/Next.js/Gatsby/React Bootstrap/Storybook
+    - React/Redux/React Hooks/Astro.js/Material-UI/Next.js/Gatsby/React Bootstrap/Storybook
     - Vue2/Vue3/Vuex/Vue-Router/Vuetify/Nuxt.js
     - Jest/React Testing Library/Cypress/Mocha
     - REST/GraphQL/Axios
